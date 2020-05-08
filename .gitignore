@@ -1,0 +1,8 @@
+#Ignore visual studio project stuff
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.exe
+*.vs
+Debug/
